@@ -1,3 +1,9 @@
+## Warning
+### READ BEFORE USING
+
+Decided to do this as a joke of of the FalixNudes thing.
+Decided to change everything related to FalixNodes to FalixNudes :)
+(links didnt change just the gp.falixnodes.net to panel.falixnodes.net and done)
 
 ## FAQ for Developers
 ### What is APPX File?
